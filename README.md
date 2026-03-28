@@ -192,11 +192,8 @@ Such workflows mirror how **modern biopharma teams apply machine learning to acc
 ---
 
 ## Example Visualization
+<img width="1303" height="836" alt="dashboard" src="https://github.com/user-attachments/assets/a1ea5e1c-0db2-4eb1-befd-bc8819842c3f" />
 
-*(Optional — add screenshot of dashboard or embedding plot)*
-
-
-Example:
 
 ---
 
